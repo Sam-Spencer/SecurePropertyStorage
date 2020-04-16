@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "391c2516080a8e9f0f9f871264a4498f"
+build_time: [1587047983, 931013000]
+inputs:
+  "/Users/vagrant/git/Sources/Singleton/Singleton.swift": [1587047754, 813711490]
+  "/Users/vagrant/git/Sources/Singleton/SingletonStorage.swift": [1587047754, 813949049]
